@@ -10,7 +10,6 @@
       "pyrogram",
       "bot"
     ],
-    "website": "https://github.com/Donsettan/LuciferMoringstar-Robot",
     "repository": "https://github.com/Donsettan/LuciferMoringstar-Robot",
     "env": {
         "API_HASH": {
